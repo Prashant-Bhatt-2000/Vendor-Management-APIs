@@ -157,5 +157,5 @@
 
     15. VendorPerformance (Get Request)
         
-            http://localhost:8000/api/v1/vend_vendor_id
+            http://localhost:8000/api/v1/YOUR_vendor_id
 
