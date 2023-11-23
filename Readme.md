@@ -2,7 +2,7 @@
 
 ## Set up
 
-    1. git clone 
+    1. git clone https://github.com/Prashant-Bhatt-2000/Vendor-Management-APIs.git
 
     2. pip venv env
 
